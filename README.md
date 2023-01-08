@@ -1,5 +1,5 @@
 # Chibong secret-code-reader
-The stuff you enter in the red box appears in your output. I got super bored........
+The stuff you enter in the red box appears in "secret code"(*), you will get what u type above the box. I got super bored........
 
 
 # Dependencies 
